@@ -8,7 +8,7 @@ May was the most successful month. More shows were hosted in May but also had a 
 
 ### Analysis of Outcomes Based on Goal
 Campaigns that had a goal of <1000 to 5000 were the mos successful. Campaigns 45000+ were failed the most and had the lower success rates.
-
+![Outcomes vs Goals](https://github.com/shaystks/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 One issue is to make sure the numbers were correct by double checking the formulas for the goals. Other than that I did not encounter any challenges.
 ## Results
